@@ -1,0 +1,2 @@
+# Practica-seis
+ pseudoelementos
